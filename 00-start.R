@@ -17,3 +17,14 @@ blogdown::serve_site()
 blogdown::new_post(title = "Olá mundo!", 
                    ext = '.Rmarkdown', 
                    subdir = "blog")
+# 6) Iniciar o controle de versão neste projeto                     
+usethis::use_git()   
+
+# 7) Criar um repositório no GitHub conectado à este projeto
+usethis::use_github()
+
+
+
+
+
+
