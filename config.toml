@@ -108,20 +108,24 @@ enableEmoji = true
       url       = "https://github.com/arturdamiao"
   [[params.social]]
       icon      = "lattes" # icon name without the 'fa-'
-      icon_pack = "ai-lattes-square"
+      icon_pack = "ai"
       url       = "http://lattes.cnpq.br/6994512988749281"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai-orcid"
+      icon_pack = "fab"
       url       = "https://orcid.org/0000-0002-8628-1653"
   [[params.social]]
       icon      = "zotero" # icon name without the 'fa-'
-      icon_pack = "fa"
+      icon_pack = "ai"
       url       = "https://www.zotero.org/arturdamiao"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=LyAreZsAAAAJ&hl=pt-BR"
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fa"
-      url       = "mailto:artur.cardoso@usp.br"
+      url       = "mailto:artur.cardoso@usp.br"    
 [taxonomies]
   category = "categories"
   series = "series"
@@ -167,8 +171,8 @@ enableEmoji = true
     
   # Configure footer  
   [[menu.footer]]
-    name = "License"
-    title = "License"
+    name = "Licença"
+    title = "Licença"
     url = "/license/"
     weight = 1
   [[menu.footer]]
