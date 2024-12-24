@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/static/perfil-linkedin.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "apreshill"
   
@@ -108,15 +108,15 @@ enableEmoji = true
       url       = "https://github.com/arturdamiao"
   [[params.social]]
       icon      = "lattes" # icon name without the 'fa-'
-      icon_pack = "ai"
+      icon_pack = "ai-lattes-square"
       url       = "http://lattes.cnpq.br/6994512988749281"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
+      icon_pack = "ai-orcid"
       url       = "https://orcid.org/0000-0002-8628-1653"
   [[params.social]]
       icon      = "zotero" # icon name without the 'fa-'
-      icon_pack = "ai"
+      icon_pack = "fa"
       url       = "https://www.zotero.org/arturdamiao"
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
@@ -130,7 +130,7 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
+    name = "Sobre"
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
@@ -140,25 +140,30 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
+    name = "Projetos"
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
+    name = "Palestras"
     title = "Talks"
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
+    name = "Ensino"
     title = "A collection"
     url = "/collection/"
     weight = 5
   [[menu.header]]
-    name = "Elements"
+    name = "Publicações"
     title = "Element Page"
     url = "/elements/"
     weight = 6
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/cv/"
+    weight = 7
     
   # Configure footer  
   [[menu.footer]]

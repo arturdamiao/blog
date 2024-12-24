@@ -148,6 +148,8 @@
   </url><url>
     <loc>http://localhost:4321/about/</loc>
   </url><url>
+    <loc>http://localhost:4321/cv/</loc>
+  </url><url>
     <loc>http://localhost:4321/contributors/</loc>
   </url><url>
     <loc>http://localhost:4321/license/</loc>
