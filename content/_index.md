@@ -1,20 +1,19 @@
 ---
-action_label: Read More &rarr;
+action_label: Leia mais &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+description: Sou Cientista Social de formação e mestrando em Sociologia, ambos
+  pela Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo (FFLCH/USP).
+  Tenho experiência em métodos quantitativos para pesquisa social, com ênfase em estudos de
+  violência, processamento de linguagem natural (NLP), análise de dados sociais e geoespaciais.
+image_left: false
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+subtitle: Mestrando em Sociologia e Cientista Social
+text_align_left: true
+title: Artur Damião
 type: home
 ---
 
