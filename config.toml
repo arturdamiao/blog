@@ -126,6 +126,10 @@ enableEmoji = true
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fa"
       url       = "mailto:artur.cardoso@usp.br"    
+  [[params.social]]
+      icon      = "linkedin-in" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/artur-dami%C3%A3o-983b88168/"   
 [taxonomies]
   category = "categories"
   series = "series"
