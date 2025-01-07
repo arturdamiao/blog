@@ -159,13 +159,13 @@ enableEmoji = true
     weight = 4
   [[menu.header]]
     name = "Ensino"
-    title = "A collection"
+    title = "Ensino"
     url = "/collection/"
     weight = 5
   [[menu.header]]
     name = "Publicações"
-    title = "Element Page"
-    url = "/elements/"
+    title = "Publicações"
+    url = "/publicacoes/"
     weight = 6
   [[menu.header]]
     name = "CV"
