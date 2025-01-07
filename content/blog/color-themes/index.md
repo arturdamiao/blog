@@ -45,3 +45,10 @@ A **Tabela 1** sintetiza os resultados ao interpretar o modelo de regressão.
 As pessoas do sexo masculino apresentam uma maior associação com a variável dependente areaint (LR Chisq = 66.174, Df = 3, p \< 0.001). Isso indica que o sexo é um preditor significativo para a área de interesse. Já a variável cor (LR Chisq = 10.080, Df = 12, p = 0.609) e a variável rfm (LR Chisq = 2.260, Df = 3, p = 0.520) não apresentam associações estatisticamente significativas com a variável dependente, sugerindo que esses fatores não contribuem de maneira relevante para explicar as variações em areaint.
 
 Já a Figura 1 ilustra a relação entre a renda familiar, medida em salários mínimos, e a probabilidade de escolha da área de interesse, diferenciada por sexo. Observa-se que, para Antropologia, a probabilidade de escolha é consistentemente maior entre o sexo feminino, com uma leve tendência de aumento à medida que a renda cresce. Em contraste, para a Ciência Política, o sexo masculino tem uma probabilidade significativamente maior de escolha em todas as faixas de renda, com pouca variação em função da renda familiar. Para Sociologia, ambos os sexos apresentam uma tendência de diminuição da probabilidade de escolha conforme a renda aumenta, embora os homens iniciem com uma probabilidade maior em faixas de renda mais baixas, com a diferença se reduzindo em faixas de renda mais altas.
+
+**Figura 1: Renda familiar e probabilidade de escolha da grande área**
+
+
+![](figura1.png)
+
+
