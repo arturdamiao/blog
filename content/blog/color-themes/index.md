@@ -1,6 +1,6 @@
 ---
 author: Artur Damião, Anna Thiemy & Mel Dokter
-date: "2021-01-27"
+date: "2025-01-06"
 draft: false
 excerpt: "Neste post, resultado de uma comunicação de pesquisa,
   exploraremos tendências de estratificação social na carreira de
