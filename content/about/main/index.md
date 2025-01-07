@@ -1,14 +1,21 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "Quem sou eu?" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  Sou mineiro do interior de Minas Gerais, estudando em São Paulo desde 2018. Tenho bastante interesse em sociologia, estudos quantitativos e me arrisco explorando diversos _softwares_. 
+  Ah, e eu amo fazer mapas e os mais variados tipos de gráficos!
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  
+  Ao longo da minha graduação em [Ciências Sociais](https://www5.usp.br/ensino/graduacao/cursos-oferecidos/ciencias-sociais/), tive bastante contato com estudos de violência e de educação. Em decorrência disso,
+  tomei conhecimento de _softwares_ para análise de dados como **Python**, **R**, **SPSS** e **QGIS**.
+
+  Devido a esse contato e meu interesse, desenvolvi grande afinidade com a programação e estatística, com foco na manipulação e visualização de dados. A estatística também é uma área que me interessa bastante,
+  sendo utilizada por grandes Sociólogos como Durkheim. Também fui monitor da disciplina [MAE0116 - Noções de Estatística](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=mae0116), a fim de auxiliar estudantes nessa matéria que pode ser
+  bastante complicada no começo.
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
