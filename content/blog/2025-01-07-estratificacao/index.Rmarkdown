@@ -1,7 +1,7 @@
 ---
 title: "Tendências de estraficação horizontal"
 author: 'Artur Damião, Anna Takata e Mel Dokter'
-date: '2025-01-07'
+date: '2025-01-06'
 slug: []
 categories: []
 tags: []
