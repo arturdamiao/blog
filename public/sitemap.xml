@@ -75,6 +75,8 @@
   </url><url>
     <loc>http://localhost:4321/license/</loc>
   </url><url>
+    <loc>http://localhost:4321/publicacoes/</loc>
+  </url><url>
     <loc>http://localhost:4321/series/</loc>
   </url>
 </urlset>
