@@ -1,165 +1,47 @@
 ---
-author: Alison Hill & Eric Anderson
-categories:
-- Theme Features
+author: Artur Damião, Anna Thiemy & Mel Dokter
 date: "2021-01-27"
 draft: false
-excerpt: This theme offers three ways to customize your site's colors. Use one of
-  8 built-in color themes, or style your own palette using named colors from the Tachyons
-  design system. You may also bring your own hex codes to make fully custom color
-  palette that is all your own.
+excerpt: "Neste post, resultado de uma comunicação de pesquisa,
+  exploraremos tendências de estratificação social na carreira de
+  Ciências Sociais da USP. Vamos investigar, mais especificamente, os preditores para as escolhas das grandes áreas: Sociologia, Antropologia e Ciência Política."
 layout: single
-subtitle: Use a built-in color theme, or design your own with a Tachyons palette or
-  your own hex codes.
-tags:
-- style
-title: Style your site colors
+
+title: Tendências de Estratificação Horizontal
 ---
 
-You can totally customize your site's theme colors within minutes of
-creating a new site. Read on to find out how, and decide which of the 
-three options meets your needs.
+Neste post, resultado de uma comunicação de pesquisa, exploraremos tendências de estratificação social na carreira de Ciências Sociais da USP. Vamos investigar, mais especificamente, os preditores para as escolhas das grandes áreas: Sociologia, Antropologia e Ciência Política.
 
-## Use a color theme
+## Objetivos
 
-Hugo Apéro includes 8 built-in color themes that work "out of the box." 
-This means you can use a color theme to quickly customize the look of your site
-without needing to write any CSS. You can select the color theme in your `config.toml` file. Scroll down to find:
+A presente comunicação compreende que a estratificação dos sistemas educacionais apresenta duas dimensões: vertical e horizontal. A primeira, diz respeito ao efeito das características adscritas do indivíduo sobre suas chances de completarem transições entre níveis educacionais. Já a segunda, trata de diferenças entre segmentos distintos dentro de um mesmo nível educacional, advindas dessas características adscritas (Mont'alvão, 2016). Assim a estratificação horizontal é um fenômeno caracteristicamente relacionado a tipos institucionais e campos de estudo. Logo, escolhas como o tipo de instituição de ensino superior, tipo de curso, e área do conhecimento são condicionadas, sobretudo, pela renda familiar, gênero, raça, e escolaridade dos pais (Carvalhaes e Ribeiro, 2019; Almeida e Ernica, 2015).
 
-```toml
-[params]
-  <!--snip snip-->
-  # use a built-in color theme
-  # one of: forest / grayscale / peach / plum /
-  #         poppy / sky / violet / water
-  theme = ""
-```
+Em diálogo com essa literatura, objetivou-se observar a existência de tendências de preferência entre os ingressantes do curso de Ciências Sociais da USP pelas macro disciplinas Antropologia, Ciência Política e Sociologia, além de investigar se essas preferências variam conforme gênero, raça e renda familiar dos ingressantes.
 
-Type one of the options like `"peach"` inside the quotation marks. If you have a Hugo server started (i.e., by using `blogdown::serve_site()`), when you save the `config.toml` file, your site preview will immediately and automatically update with your new color theme. For example, let's choose `"peach"`!
+## Métodos e procedimentos
 
-```toml
-[params]
-  <!--snip snip-->
-  # use a built-in color theme
-  # one of: forest / grayscale / peach / plum /
-  #         poppy / sky / violet / water
-  theme = "peach"
-```
+A partir dos dados do censo anual "Perfil dos/das/des Ingressantes de Ciências Sociais da USP", realizado pelo PET-Ciências Sociais desde 2006, foram selecionadas as seguintes variáveis independentes: cor (de acordo com as categorias do IBGE), sexo e renda familiar média (rfm). A variável dependente é a área de interesse no curso, sendo Antropologia a categoria de referência. A amostra inclui 2.232 ingressantes entre 2006 e 2017.
 
-You should see:
+Para a regressão logística multinomial, verificou-se que os pressupostos foram atendidos, incluindo a independência das observações, ausência de multicolinearidade e independência de alternativas irrelevantes (teste de Hausman-McFadden), assegurando a validade das estimativas dos coeficientes. O modelo de regressão é representado pela equação
 
-![Switching to the peach color theme](peach.png)
+$$
+\log\left( \frac{P(Y=j)}{P(Y=k)} \right) = \beta_{0j} + \beta_{1j}(\text{sexo}) + \beta_{2j}(\text{cor}) + \beta_{3j}(\text{rfm})
+$$
 
-If you select a theme that isn't one of the available options (like `"pecan"`), 
-you should see an error message print to your viewer pane in the RStudio IDE:
+## Resultados preliminares
 
-```bash
-Selected theme 'pecan' is not one of the options.
-```
+A **Tabela 1** sintetiza os resultados ao interpretar o modelo de regressão.
 
-All of the color themes were designed to meet [WCAG 2.0 level AA requirements](https://webaim.org/articles/contrast/) for contrast ratios.
+**Tabela 1: Coeficientes do modelo**
 
-## Use Tachyons named colors
+| Variável | LR Chisq |  Df |      Pr(\>Chisq) |
+|----------|---------:|----:|-----------------:|
+| **sexo** |   66.174 |   3 | 2.81×10⁻¹⁴\*\*\* |
+| **cor**  |   10.080 |  12 |           0.6089 |
+| **rfm**  |    2.260 |   3 |           0.5202 |
 
-This theme uses [Tachyons](https://tachyons.io), a design system that allows you 
-to design gorgeous interfaces in the browser with little effort.
+\*\*\*p \< 0.001
 
-![Tachyons Logo Script](tachyons-logo-script.png)
+As pessoas do sexo masculino apresentam uma maior associação com a variável dependente areaint (LR Chisq = 66.174, Df = 3, p \< 0.001). Isso indica que o sexo é um preditor significativo para a área de interesse. Já a variável cor (LR Chisq = 10.080, Df = 12, p = 0.609) e a variável rfm (LR Chisq = 2.260, Df = 3, p = 0.520) não apresentam associações estatisticamente significativas com a variável dependente, sugerindo que esses fatores não contribuem de maneira relevante para explicar as variações em areaint.
 
-We've leveraged the [accessible color
-combinations](https://tachyons.io/docs/themes/skins/) included with Tachyons to
-offer an easy way for you to setup your site using your favorite colors. Here are the steps:
-
-+ Create an `assets/` folder in the root of your website project (don't add it to your `themes/` directory!).
-
-+ Create a `.scss` file in the new `assets/` folder.
-
-+ Copy the code below for a full set of color parameters giving you control over the theme color scheme. For an option like `siteBgColor`, for example, you can type one of the predefined color names from Tachyons and save the file. Use only color names as shown in the "Color Palette" section of <https://tachyons.io/docs/themes/skins/>.
-
-```scss
-// basic color options: use only color names as shown in the
-// "Color Palette" section of https://tachyons.io/docs/themes/skins/
-$siteBgColor: "near-white" ;
-$sidebarBgColor: "light-gray" ;
-$textColor: "dark-gray" ;
-$sidebarTextColor: "mid-gray" ;
-$headlineColor: "dark-pink" ;
-$headingColor: "near-black" ;
-$bodyLinkColor: "blue" ;
-$navLinkColor: "near-black" ;
-$sidebarLinkColor: "near-black" ;
-$footerTextColor: "silver" ;
-$buttonTextColor: "near-white" ;
-$buttonBgColor: "black" ;
-$buttonHoverTextColor: "white" ;
-$buttonHoverBgColor: "blue" ;
-$borderColor: "moon-gray" ;
-```
-
-Two last steps- back in your `config.toml` file:
-
-1. Leave the theme blank (so `theme = ""` with empty quotes) in your `config.toml` file.
-
-1. Add the name of your theme file (minus the `.scss` extension) that you added to `assets/` as the `custom_theme`.
-
-Your final `config.toml` would look something like this:
-
-```toml
-[params]
-  <!--snip snip-->
-  # use a built-in color theme
-  # one of: forest / grayscale / peach / plum /
-  #         poppy / sky / violet / water 
-  theme = ""
-  
-  # or, leave theme empty & make your own palette
-  # see docs at https://hugo-apero.netlify.app/blog/color-themes/
-  # the custom scss file must be in the assets/ folder
-  # add the filename name here, without extension
-  # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "named-colors" 
-```
-
-## Bring your own hex codes
-
-Let's say you have a style guide to follow and `washed-blue` just won't cut the
-mustard. There is a bypass of these
-predefined colors built in, you just need to do *one very special extra step*. Follow the steps above for using named Tachyons colors, but then, add `hex` anywhere in the filename for your custom `.scss` (for example, you may name this file `hex-colors.scss`). If you include `hex` in the filename, you get to assign your own HEX codes, like this:
-
-```scss
-// set custom hex colors
-$siteBgColorCustom: #e3e3da;
-$sidebarBgColorCustom: #dbdbd2;
-$textColorCustom: #666260;
-$sidebarTextColorCustom: #666260;
-$headlineColorCustom: #103742;
-$headingColorCustom: #103742;
-$bodyLinkColorCustom: #c4001a;
-$navLinkColorCustom: #c4001a;
-$sidebarLinkColorCustom: #c4001a;
-$footerTextColorCustom: #918f8d;
-$buttonTextColorCustom: #f7f7f4;
-$buttonHoverTextColorCustom: #f9f9f8;
-$buttonBgColorCustom: #103742;
-$buttonHoverBgColorCustom: #c4001a;
-$borderColorCustom: #c4beb9;
-```
-
-After adding the name of your theme file (minus the `.scss` extension) that you added to `assets/` as the `custom_theme`, your final `config.toml` would look something like this:
-
-```toml
-[params]
-  <!--snip snip-->
-  # use a built-in color theme
-  # one of: forest / grayscale / peach / plum /
-  #         poppy / sky / violet / water 
-  theme = ""
-  
-  # or, leave theme empty & make your own palette
-  # see docs at https://hugo-apero.netlify.app/blog/color-themes/
-  # the custom scss file must be in the assets/ folder
-  # add the filename name here, without extension
-  # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "hex-colors" 
-```
-
+Já a Figura 1 ilustra a relação entre a renda familiar, medida em salários mínimos, e a probabilidade de escolha da área de interesse, diferenciada por sexo. Observa-se que, para Antropologia, a probabilidade de escolha é consistentemente maior entre o sexo feminino, com uma leve tendência de aumento à medida que a renda cresce. Em contraste, para a Ciência Política, o sexo masculino tem uma probabilidade significativamente maior de escolha em todas as faixas de renda, com pouca variação em função da renda familiar. Para Sociologia, ambos os sexos apresentam uma tendência de diminuição da probabilidade de escolha conforme a renda aumenta, embora os homens iniciem com uma probabilidade maior em faixas de renda mais baixas, com a diferença se reduzindo em faixas de renda mais altas.
