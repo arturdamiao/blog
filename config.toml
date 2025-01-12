@@ -118,6 +118,10 @@ enableEmoji = true
       icon      = "zotero" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://www.zotero.org/arturdamiao"
+   [[params.social]]
+      icon      = "osf" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://osf.io/g9dvj/"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
