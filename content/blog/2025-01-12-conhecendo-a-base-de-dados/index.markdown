@@ -8,7 +8,7 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/arturdamiao/projeto_mestrado
+  url: https://github.com/arturdamiao/projeto_mestrado/blob/main/escrita/registro_base_dados_bruta.qmd
 location: "São Paulo, Brasil"
 featured: true
 slug: []
