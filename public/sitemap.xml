@@ -2,81 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/</loc>
+    <loc>http://localhost:5570/blog/mestrado-series/01-mestrado/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/blog/mestrado-series/02-mestrado/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/02-mestrado/02-mestrado/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/blog/mestrado-series/03-mestrado/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/blog/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/blog/color-themes/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/color-themes/</loc>
-    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/campfire/</loc>
+    <loc>http://localhost:5570/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>http://localhost:5570/categories/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/</loc>
+    <loc>http://localhost:5570/talk/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/workshop/</loc>
+    <loc>http://localhost:5570/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/second-seedling/</loc>
+    <loc>http://localhost:5570/tags/mestrado/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/blog/mestrado-series/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/series/projeto-de-mestrado/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/categories/r/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/series/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/tags/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:5570/talk/second-seedling/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/meetup/</loc>
+    <loc>http://localhost:5570/categories/meetup/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/seedling/</loc>
+    <loc>http://localhost:5570/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/</loc>
+    <loc>http://localhost:5570/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/hugo-site/</loc>
+    <loc>http://localhost:5570/tags/hugo-site/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/package/</loc>
+    <loc>http://localhost:5570/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/r/</loc>
+    <loc>http://localhost:5570/project/giraffes/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/giraffes/</loc>
+    <loc>http://localhost:5570/categories/theme-features/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/project/penguins/</loc>
+    <loc>http://localhost:5570/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/bakeoff/</loc>
+    <loc>http://localhost:5570/project/bakeoff/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/contato/</loc>
+    <loc>http://localhost:5570/contato/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/form/</loc>
+    <loc>http://localhost:5570/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/about/</loc>
+    <loc>http://localhost:5570/about/</loc>
   </url><url>
-    <loc>http://localhost:4321/collection/</loc>
+    <loc>http://localhost:5570/collection/</loc>
   </url><url>
-    <loc>http://localhost:4321/cv/</loc>
+    <loc>http://localhost:5570/cv/</loc>
   </url><url>
-    <loc>http://localhost:4321/contributors/</loc>
+    <loc>http://localhost:5570/contributors/</loc>
   </url><url>
-    <loc>http://localhost:4321/license/</loc>
+    <loc>http://localhost:5570/license/</loc>
   </url><url>
-    <loc>http://localhost:4321/publicacoes/</loc>
-  </url><url>
-    <loc>http://localhost:4321/series/</loc>
+    <loc>http://localhost:5570/publicacoes/</loc>
   </url>
 </urlset>

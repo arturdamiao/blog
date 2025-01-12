@@ -2,87 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artur Damião on Mestrando em Sociologia, Artur Damião</title>
-    <link>http://localhost:4321/</link>
+    <link>http://localhost:5570/</link>
     <description>Recent content in Artur Damião on Mestrando em Sociologia, Artur Damião</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:5570/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conhecendo a base de dados</title>
-      <link>http://localhost:4321/blog/2025-01-12-conhecendo-a-base-de-dados/</link>
+      <link>http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/2025-01-12-conhecendo-a-base-de-dados/</guid>
+      <guid>http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</guid>
       <description>&lt;h1 id=&#34;introdução&#34;&gt;Introdução&#xA;  &lt;a href=&#34;#introdu%c3%a7%c3%a3o&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Neste primeiro post, estou registrando que a base de dados &lt;code&gt;SIC 81933249327.xlsb&lt;/code&gt;, elencada adiante, apresentou muitos problemas que impossibilita uma análise direta, e aqui servirá de guia para saber o que foi feito ou não. Considero que o formato de dados binário, com a terminação &lt;code&gt;.xlsb&lt;/code&gt;, não é muito amigável para a manipulação e tratamento dos dados.&lt;/p&gt;&#xA;&lt;p&gt;Ao usarmos o R, a função &lt;code&gt;readxlsb::read_xlsb()&lt;/code&gt; apresentou limitações significativas. Com isso em mente, fizemos parte das alterações diretamente no &lt;em&gt;Excel&lt;/em&gt;, tendo visto a minha familiridade com o seu uso. Por exemplo, a primeira tentativa de unir a base de dados em uma só foi a partir do seguinte código:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Estudos policiais no Brasil</title>
+      <link>http://localhost:5570/blog/mestrado-series/01-mestrado/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5570/blog/mestrado-series/01-mestrado/</guid>
+      <description>&lt;h1 id=&#34;introdução&#34;&gt;Introdução&#xA;  &lt;a href=&#34;#introdu%c3%a7%c3%a3o&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Para o futuro.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h1 id=&#34;discussão-metodológica&#34;&gt;Discussão metodológica&#xA;  &lt;a href=&#34;#discuss%c3%a3o-metodol%c3%b3gica&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Referenciar bibliografia depois.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Tendências de Estratificação Horizontal</title>
-      <link>http://localhost:4321/blog/color-themes/</link>
+      <link>http://localhost:5570/blog/color-themes/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/color-themes/</guid>
+      <guid>http://localhost:5570/blog/color-themes/</guid>
       <description>&lt;p&gt;Neste post, resultado de uma comunicação de pesquisa, exploraremos tendências de estratificação social na carreira de Ciências Sociais da USP. Vamos investigar, mais especificamente, os preditores para as escolhas das grandes áreas: Sociologia, Antropologia e Ciência Política.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;tratamento-dos-dados&#34;&gt;Tratamento dos dados&#xA;  &lt;a href=&#34;#tratamento-dos-dados&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Antes de darmos início a apresentação da comunicação e dos códigos, é de grande importância realizar um tratamento dos dados. Todo o script e dados estão disponíveis no meu &#xA;&lt;a href=&#34;https://github.com/arturdamiao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A campfire</title>
-      <link>http://localhost:4321/talk/campfire/</link>
+      <link>http://localhost:5570/talk/campfire/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/talk/campfire/</guid>
+      <guid>http://localhost:5570/talk/campfire/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A seedling</title>
-      <link>http://localhost:4321/talk/second-seedling/</link>
+      <link>http://localhost:5570/talk/second-seedling/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>http://localhost:4321/talk/second-seedling/</guid>
+      <guid>http://localhost:5570/talk/second-seedling/</guid>
       <description></description>
     </item>
     <item>
       <title>A seedling</title>
-      <link>http://localhost:4321/talk/seedling/</link>
+      <link>http://localhost:5570/talk/seedling/</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      <guid>http://localhost:4321/talk/seedling/</guid>
+      <guid>http://localhost:5570/talk/seedling/</guid>
       <description></description>
     </item>
     <item>
       <title>Tachyons for Style</title>
-      <link>http://localhost:4321/project/giraffes/</link>
+      <link>http://localhost:5570/project/giraffes/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/giraffes/</guid>
+      <guid>http://localhost:5570/project/giraffes/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;tachyons-logo-script.png&#34; alt=&#34;Tachyons Logo Script&#34;&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;tachyonshttptachyonsio-is-a-design-system-that-allows-you-to-design-gorgeous-interfaces-in-the-browser-with-little-effort&#34;&gt;&#xA;&lt;a href=&#34;http://tachyons.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tachyons&lt;/a&gt; is a design system that allows you to design gorgeous interfaces in the browser with little effort.&#xA;  &lt;a href=&#34;#tachyonshttptachyonsio-is-a-design-system-that-allows-you-to-design-gorgeous-interfaces-in-the-browser-with-little-effort&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;because-speed&#34;&gt;Because Speed&#xA;  &lt;a href=&#34;#because-speed&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Building this static site generator theme was the first time I used an Atomic&#xA;(or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides&#xA;very small (which means fast) CSS modules that you can use in your HTML. So,&#xA;rather than writing every line of CSS, you apply the style you need as you write&#xA;your HTML with easy to understand shorthand class names. This makes for a very&#xA;powerful way to style, in the browser, or while building a static site like this&#xA;one – since you can see every change with every save. &lt;strong&gt;It&amp;rsquo;s a joy to use.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Palmer Penguins</title>
-      <link>http://localhost:4321/project/penguins/</link>
+      <link>http://localhost:5570/project/penguins/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/penguins/</guid>
+      <guid>http://localhost:5570/project/penguins/</guid>
       <description>&lt;h3 id=&#34;grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites&#34;&gt;“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”&#xA;  &lt;a href=&#34;#grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;— &#xA;&lt;a href=&#34;http://chris.house/blog/a-complete-guide-css-grid-layout/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris House, A Complete Guide to CSS Grid Layout&lt;/a&gt;&lt;/em&gt; &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid &lt;code&gt;TABLE&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bakeoff</title>
-      <link>http://localhost:4321/project/bakeoff/</link>
+      <link>http://localhost:5570/project/bakeoff/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/bakeoff/</guid>
+      <guid>http://localhost:5570/project/bakeoff/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;formspree-logo.png&#34; alt=&#34;Formspree Logo&#34;&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;formspreehttpsformspreeio-makes-it-easy-to-receive-submissions-from-html-forms-on-your-static-website&#34;&gt;&#xA;&lt;a href=&#34;https://formspree.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Formspree&lt;/a&gt; makes it easy to receive submissions from HTML forms on your static website.&#xA;  &lt;a href=&#34;#formspreehttpsformspreeio-makes-it-easy-to-receive-submissions-from-html-forms-on-your-static-website&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;functional-form&#34;&gt;Functional Form&#xA;  &lt;a href=&#34;#functional-form&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;This theme has a &lt;strong&gt;form-to-email&lt;/strong&gt; feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form&#xA;(&lt;code&gt;/content/forms/contact.md&lt;/code&gt;). Of course, the example shown below (&lt;code&gt;your@email.here&lt;/code&gt;) must not be used. Please use your actual email address.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato</title>
-      <link>http://localhost:4321/contato/</link>
+      <link>http://localhost:5570/contato/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      <guid>http://localhost:4321/contato/</guid>
+      <guid>http://localhost:5570/contato/</guid>
       <description>&lt;p&gt;** Contact page don&amp;rsquo;t contain a body, just the front matter above.&#xA;See form.html in the layouts folder.&lt;/p&gt;&#xA;&lt;p&gt;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.&#xA;**&lt;/p&gt;</description>
     </item>
     <item>
       <title>Financiamento</title>
-      <link>http://localhost:4321/contributors/</link>
+      <link>http://localhost:5570/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/contributors/</guid>
+      <guid>http://localhost:5570/contributors/</guid>
       <description>&lt;h2 id=&#34;mestrado&#34;&gt;Mestrado&#xA;  &lt;a href=&#34;#mestrado&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Título&lt;/strong&gt;: Padrões de atuação das polícias e a apreensão de adolescentes no Município de São Paulo: explorações teórico-metodológicas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agência&lt;/strong&gt;:&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Universidade&lt;/strong&gt;: &#xA;&lt;a href=&#34;https://www5.usp.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unversidade de São Paulo (USP)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bolsa&lt;/strong&gt;:&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Valor&lt;/strong&gt;: R$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;iniciação-científica&#34;&gt;Iniciação Científica&#xA;  &lt;a href=&#34;#inicia%c3%a7%c3%a3o-cient%c3%adfica&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Título&lt;/strong&gt;: Crime e caminhabilidade em São Paulo (SP): impactos na infância e adolescência&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agência&lt;/strong&gt;:  &#xA;&lt;a href=&#34;https://fapesp.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Universidade&lt;/strong&gt;: &#xA;&lt;a href=&#34;https://www5.usp.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unversidade de São Paulo (USP)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bolsa&lt;/strong&gt;: #2022/05379-7&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Valor&lt;/strong&gt;: R$ 10.561,32&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Licença</title>
-      <link>http://localhost:4321/license/</link>
+      <link>http://localhost:5570/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/license/</guid>
+      <guid>http://localhost:5570/license/</guid>
       <description>&lt;p&gt;Os conteúdos deste &#xA;&lt;a href=&#34;https://arturdamiao.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site&lt;/a&gt; são distribuídos sob a licença &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Basta atribuir o crédito a mim.&lt;/p&gt;&#xA;&lt;center&gt;&#xD;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xD;&#xA;&lt;/center&gt;</description>
     </item>
   </channel>

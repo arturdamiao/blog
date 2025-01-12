@@ -2,13 +2,13 @@
 title: Conhecendo a base de dados
 author: 'Artur Damião'
 date: '2025-01-12'
-excerpt: "Nessa série de posts, exploraremos a base de dados para a minha        pesquisa de Mestrado. Inicialmente, vamos conhecer e ajustar a base de dados
-  da, solicitada à Secretária de Segurança Pública do Estado de São Paulo        (SSP-SP), via Serviço Estadual de Informações ao Cidadão (e-SIC)."
+excerpt: "Nessa série de posts, exploraremos a base de dados para a minha        pesquisa de Mestrado. Inicialmente, vamos conhecer e ajustar a base de   dados da, solicitada à Secretária de Segurança Pública do Estado de São     Paulo        (SSP-SP), via Serviço Estadual de Informações ao Cidadão       (e-SIC)."
+weight: 1
 links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/arturdamiao/projeto_mestrado
+  url: https://github.com/arturdamiao/projeto_mestrado/blob/main/escrita/registro_base_dados_bruta.qmd
 location: "São Paulo, Brasil"
 featured: true
 slug: []
@@ -22,8 +22,8 @@ Neste primeiro post, estou registrando que a base de dados `SIC 81933249327.xlsb
 
 Ao usarmos o R, a função `readxlsb::read_xlsb()` apresentou limitações significativas. Com isso em mente, fizemos parte das alterações diretamente no *Excel*, tendo visto a minha familiridade com o seu uso. Por exemplo, a primeira tentativa de unir a base de dados em uma só foi a partir do seguinte código:
 
-```{r}
-#| eval: false
+
+``` r
 data <- readxlsb::read_xlsb(path = "dados/SIC 81933249327.xlsb",
   sheet = c("Base de Dados (1)", 
             "Base de Dados (2)",
@@ -58,7 +58,7 @@ data <- readxlsb::read_xlsb(path = "dados/SIC 81933249327.xlsb",
 
 Manuseando a base de dados no **Excel**, foi possível observar que não há um padrão para tratar dados vazios ou nulos. Por vezes, eles aparecem como `NULL`[^3], `0`, `99999` ou como células vazias. Por padrão, sempre que uma coluna possui um caractere textual, mesmo que seja somente um, esta coluna sempre será lida como `<chr>` ao invés de outro formato, como `<dttm>` (*data*) ou `dbl` (*numérico*).
 
-[^3]: Na segunda aba da planilha, observamos que a coluna `CEP` possuía `r round((27310/427358),3)*100`% de seus dados apresentados como `NULL`. Frente à isso, optei por transformar as células que continham o valor `NULL` em valores vazios.
+[^3]: Na segunda aba da planilha, observamos que a coluna `CEP` possuía 6.4% de seus dados apresentados como `NULL`. Frente à isso, optei por transformar as células que continham o valor `NULL` em valores vazios.
 
 Agora, a base de dados se aproxima muito com o que gostaríamos de ter como produto final. Por enquanto, estamos lendo uma "aba" (*sheet*) por vez porque estávamos impossibilitados de ler tudo de uma vez, ao utilizar a função `readxlsb:read_xlsb`. Haviam dois problemas:
 
@@ -92,7 +92,7 @@ A **Tabela** abaixo apresenta a porcentagem de registros de Boletins de Ocorrên
 | Parda   | 211.315         | 48.2%           |
 | Preta   | 41.419          | 9.4%            |
 
-É possível ver que há uma predominância de adolescentes **pardos**, seguidos de **brancos**. Se analisarmos de maneira conjunta os adolescentes **pretos** e **pardos**, configurando a categoria "negro" de acordo com o IBGE, observamos que essa população está sobrerepresentanda em nossa amostra, com um total de `r 48.2 + 9.4`%.
+É possível ver que há uma predominância de adolescentes **pardos**, seguidos de **brancos**. Se analisarmos de maneira conjunta os adolescentes **pretos** e **pardos**, configurando a categoria "negro" de acordo com o IBGE, observamos que essa população está sobrerepresentanda em nossa amostra, com um total de 57.6%.
 
 Na **Figura** abaixo, podemos ver como se distribui o número de registros ao longo dos anos, para todo o Estado de São Paulo. Nos indagamos: o que aconteceu entre os anos de 2014 e 2017, para que houvesse um decréscimo no número de registros, logo após o ápice da série histórica?
 
