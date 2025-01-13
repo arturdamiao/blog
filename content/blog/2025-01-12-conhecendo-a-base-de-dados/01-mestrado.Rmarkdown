@@ -2,8 +2,8 @@
 title: Conhecendo a base de dados
 author: 'Artur Damião'
 date: '2025-01-12'
-excerpt: "Nessa série de posts, exploraremos a base de dados para a minha        pesquisa de Mestrado. Inicialmente, vamos conhecer e ajustar a base de dados
-  da, solicitada à Secretária de Segurança Pública do Estado de São Paulo        (SSP-SP), via Serviço Estadual de Informações ao Cidadão (e-SIC)."
+excerpt: "Nessa série de posts, exploraremos a base de dados para a minha        pesquisa de Mestrado. Inicialmente, vamos conhecer e ajustar a base de   dados da, solicitada à Secretária de Segurança Pública do Estado de São     Paulo        (SSP-SP), via Serviço Estadual de Informações ao Cidadão       (e-SIC)."
+weight: 1
 links:
 - icon: github
   icon_pack: fab

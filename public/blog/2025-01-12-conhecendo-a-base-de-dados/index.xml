@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mestrando em Sociologia, Artur Damião</title>
-    <link>http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/</link>
+    <link>http://localhost:7913/blog/2025-01-12-conhecendo-a-base-de-dados/</link>
     <description>Recent content on Mestrando em Sociologia, Artur Damião</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7913/blog/2025-01-12-conhecendo-a-base-de-dados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conhecendo a base de dados</title>
-      <link>http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</link>
+      <link>http://localhost:7913/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:5570/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</guid>
+      <guid>http://localhost:7913/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</guid>
       <description>&lt;h1 id=&#34;introdução&#34;&gt;Introdução&#xA;  &lt;a href=&#34;#introdu%c3%a7%c3%a3o&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Neste primeiro post, estou registrando que a base de dados &lt;code&gt;SIC 81933249327.xlsb&lt;/code&gt;, elencada adiante, apresentou muitos problemas que impossibilita uma análise direta, e aqui servirá de guia para saber o que foi feito ou não. Considero que o formato de dados binário, com a terminação &lt;code&gt;.xlsb&lt;/code&gt;, não é muito amigável para a manipulação e tratamento dos dados.&lt;/p&gt;&#xA;&lt;p&gt;Ao usarmos o R, a função &lt;code&gt;readxlsb::read_xlsb()&lt;/code&gt; apresentou limitações significativas. Com isso em mente, fizemos parte das alterações diretamente no &lt;em&gt;Excel&lt;/em&gt;, tendo visto a minha familiridade com o seu uso. Por exemplo, a primeira tentativa de unir a base de dados em uma só foi a partir do seguinte código:&lt;/p&gt;</description>
     </item>
   </channel>
