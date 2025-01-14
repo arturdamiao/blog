@@ -1,30 +1,39 @@
 ---
-author: Alison Hill
+author: Artur Damião
 categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+- Anotações
+date: "2024-03-01"
+date_end: "2024-06-30"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+event: Sociologia da Violência
+event_url: https://edisciplinas.usp.br/course/view.php?id=116465
+excerpt: "Notas da disciplina de graduação Sociologia da Violência: Teoria e   Pesquisa (2024)" 
 featured: true
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+- icon: file-pdf
+  icon_pack: fa
+  name: download pdf
+  url: https://drive.google.com/uc?export=download&id=1-40t5T6Y5rYwOB_enC7zwvJApQFKj1D8
+
+location: São Paulo, Brasil
 show_post_time: false
-subtitle: Testing
-title: A campfire
+subtitle: ""
+title: "FSL0608 - Sociologia da Violência: Teoria e Pesquisa"
 ---
+Você pode fazer o Download em PDF dessas anotações no botão abaixo. 
+
+
+<a href="https://drive.google.com/uc?export=download&id=1-40t5T6Y5rYwOB_enC7zwvJApQFKj1D8" 
+   class="download-btn" 
+   download>
+   <i class="fa fa-file-pdf"></i> Download
+</a>
+
+
+Mas, se preferir, basta descer a página para visualizar todo o conteúdo. 
+<i class="fa-regular fa-face-smile-wink"></i>
+
 
 <style>
     body {
@@ -54,6 +63,4 @@ title: A campfire
 <div class="paper-container">
     <iframe src="https://docs.google.com/document/d/e/2PACX-1vTHonY9DzIzBhWwnqv2QVvCCgTDJI3NokyByyxl0KS6M1sBN_rsUd-u2RgizOmkPKIVEErnB27GEDqn/pub?embedded=true"></iframe>
 </div>
-
-
 
