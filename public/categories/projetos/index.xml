@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Mestrando em Sociologia, Artur Damião</title>
+    <link>http://localhost:4321/categories/projetos/</link>
+    <description>Recent content in Projetos on Mestrando em Sociologia, Artur Damião</description>
+    <generator>Hugo</generator>
+    <language>pt</language>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/projetos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programa de Educação Tutorial</title>
+      <link>http://localhost:4321/project/pet/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/pet/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
