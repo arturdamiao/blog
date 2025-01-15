@@ -17,6 +17,11 @@ title: Tendências de Estratificação Horizontal
 ---
 Neste post, resultado de uma comunicação de pesquisa, exploraremos tendências de estratificação social na carreira de Ciências Sociais da USP. Vamos investigar, mais especificamente, os preditores para as escolhas das grandes áreas: Sociologia, Antropologia e Ciência Política.
 
+Agradeço especialmente à [Fernanda Peres](https://fernandafperes.com.br/), por ter disponibilizado em seu Canal de Youtube uma vídeo-aula que apresentasse um script que nos auxiliou enormemente neste trabalho, junto das referências apresentadas junto ao material. Link para o vídeo:  
+
+
+[<i class="fa-brands fa-youtube"></i>](https://youtu.be/CgjmFLOXbEI?si=Nf9QGnXXP_faPIBl)
+
 ## Tratamento dos dados
 
 Antes de darmos início a apresentação da comunicação e dos códigos, é de grande importância realizar um tratamento dos dados. Todo o script e dados estão disponíveis no meu [GitHub](https://github.com/arturdamiao).
