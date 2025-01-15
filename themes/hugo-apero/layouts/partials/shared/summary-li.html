@@ -35,14 +35,14 @@
         <div class="w-100 w-80-ns pl3-ns">
       {{ $summary := cond (ne .Params.excerpt nil) .Params.excerpt .Summary }}
       {{ with $summary }}<p class="measure lh-copy cf">{{ . | markdownify | emojify }}</p>{{ end }}
-          <a href="{{ .RelPermalink }}">Read more</a></p>
+          <a href="{{ .RelPermalink }}">Leia mais</a></p>
         </div>
     </article>
   {{ end }} <!--end range across grouped pages-->
 
   {{ with $section }}
       <div class="tr">
-        <span class="f5 pv4 tr ttu tracked"><a href="{{ .RelPermalink }}" class="dim no-underline">See all &rarr;</a></span>
+        <span class="f5 pv4 tr ttu tracked"><a href="{{ .RelPermalink }}" class="dim no-underline">Ver tudo &rarr;</a></span>
       </div>
   {{ end }}
 {{ end }}
