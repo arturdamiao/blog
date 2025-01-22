@@ -20,3 +20,5 @@ tags:
 title: Programa de Educação Tutorial
 ---
 
+1.    [Analisando sexualidade e gênero do alunado: hands-on na base de dados do PET](https://arturdamiao.github.io/pet-cs-gender/script/index.html#/)
+
