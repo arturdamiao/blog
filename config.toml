@@ -176,7 +176,12 @@ enableEmoji = true
     title = "CV"
     url = "/cv/cv.html"
     weight = 7
-    
+  [[menu.header]]
+    name = "Resumé"
+    title = "Resumé"
+    url = "/resume/resume.pdf"
+    weight = 8    
+
   # Configure footer  
   [[menu.footer]]
     name = "Licença"

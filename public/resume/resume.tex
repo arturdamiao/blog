@@ -1,0 +1,182 @@
+%------------------------
+% Ethan's Résumé Template
+% Author: Artur Damião
+% License: CC-BY-4.0
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{ragged2e}
+\usepackage{etoolbox}
+\usepackage{tikz}
+\input{glyphtounicode}
+
+% font options
+\usepackage[sc]{mathpazo}
+\linespread{1.05}  % palladio needs more leading (space between lines)
+\usepackage[T1]{fontenc}
+
+\pagestyle{fancy}
+\fancyhf{}  % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% adjust margins
+\addtolength{\oddsidemargin}{-0.1in}
+\addtolength{\evensidemargin}{-0.1in}
+\addtolength{\textwidth}{0.1in}
+\addtolength{\topmargin}{0.1in}
+\addtolength{\textheight}{0.1in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\setlength{\footskip}{5pt}
+
+% sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+% custom commands
+\newcommand{\cvitem}[1]{
+  \item\small{
+    {#1\vspace{-2pt}}
+  }
+}
+
+\newcommand{\cvheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2\\
+      \small#3 & \small #4\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\cvheadingstart}{\begin{itemize}[leftmargin=0in, label={}]}
+\newcommand{\cvheadingend}{\end{itemize}}
+\newcommand{\cvitemstart}{\begin{itemize}\justifying}
+\newcommand{\cvitemend}{\end{itemize}\vspace{-5pt}}
+
+\newcommand{\cvskill}[2]{
+  \textcolor{black}{\textbf{#1}}\hfill
+  \foreach \x in {1,...,5}{%
+    \space{\ifnumgreater{\x}{#2}{\color{black!80!white!20}}{\color{black}}\faSquare}}\par%
+  \vspace{-2pt}
+}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\footnotesize$\bullet$}}$}
+
+% cor dos links
+\usepackage{xcolor} % Pacote para manipulação de cores
+\usepackage{hyperref} % Pacote para links
+
+\hypersetup{
+    colorlinks=true, % Ativa a coloração dos links
+    linkcolor=blue, % Cor dos links internos
+    urlcolor=blue,  % Cor dos links externos (URLs)
+    citecolor=blue  % Cor das citações
+}
+
+\begin{document}
+
+% contact information
+\begin{center}
+  \textbf{\LARGE\scshape Artur Damião Cardoso}\\
+  \vspace{5pt}\small
+  Cientista Social e Mestrando em Sociologia\\
+  Universidade de São Paulo (USP), São Paulo, SP, Brasil\\
+  \href{mailto:}{arturcardoso@usp.br}
+  $\ \bullet\ $ 
+  \href{https://github.com/arturdamiao}{GitHub}
+  $\ \bullet\ $
+  \href{https://www.linkedin.com/in/artur-damião-983b88168/}{LinkedIn}
+    $\ \bullet\ $
+  \href{https://arturdamiao.com/}{Website}
+\end{center}
+
+\section{Apresentação}
+Sou Cientista Social formado pela Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo (FFLCH/USP)
+e atualmente mestrando em Sociologia na mesma instituição.
+Minha pesquisa concentra-se no uso de métodos quantitativos para o estudo da violência, com especial interesse em análise de dados sociais e geoespaciais. Tenho experiência em processamento de linguagem natural (NLP) e modelagem de padrões espaciais, aplicando essas abordagens para compreender dinâmicas sociais e criminais.
+
+\section{Formação}
+\cvheadingstart
+  \cvheading
+    {Universidade de São Paulo (USP)}{São Paulo, SP, Brasil}
+    {BS, Ciências Sociais} {04/2021 - 07/2024}
+  \cvheading
+    {Universidade de São Paulo (USP)}{São Paulo, SP, Brasil}
+    {MS, Sociologia}{01/2025 - 12/2026}
+  \cvheading
+    {Universidade Federal de Minas Gerais (UFMG)}{Belo Horizonte, MG, Brasil}
+    {Especialização, Estatística Computacional Aplicada}{03/2025 - 12/2026}
+\cvheadingend
+
+\section{Experiências Profissionais}
+\cvheadingstart
+  \cvheading
+    {Fundação ABRINQ pelos Direitos da Criança e do Adolescente}{São Paulo, SP, Brasil}
+    {Estagiário em organização do Terceiro Setor}{01/2022 - 05/2022}
+  \cvheading
+    {Prefeitura do Município de São Paulo}{São Paulo, SP, Brasil}
+    {Estagiário na Controlodaria Geral do Município}{04/2023 - 08/2023}
+  \cvheading
+    {Provokers Marketing Analytics}{São Paulo, SP, Brasil}
+    {Estagiário de pesquisa de mercado}{08/2023 - 04/2024}
+\cvheadingend
+
+\section{Habilidades Técnicas}
+\cvskill{R, tidyverse, quarto, shiny}{4}
+\cvskill{git, GitHub}{3}
+\cvskill{Python}{3}
+\cvskill{Julia}{1}
+\vspace{-5pt}
+
+\section{Publicações}
+\cvheadingstart
+\item
+\cvitemstart
+  \cvitem{\href{https://orcid.org/0000-0002-8628-1653}{ORCID}}
+  \cvitem{\href{https://scholar.google.com/citations?user=LyAreZsAAAAJ&hl=pt-BR}{Google Scholar}}
+  \cvitem{\href{http://lattes.cnpq.br/6994512988749281}{Lattes}}
+\cvitemend
+\cvheadingend
+
+\section{Proficiência linguística}
+\cvheadingstart
+\item
+\cvitemstart
+  \cvitem{Inglês (avançado)}
+  \cvitem{Espanhol (básico)}
+  \cvitem{Português (nativo)}
+\cvitemend
+\cvheadingend
+
+\section{Referências}
+\cvheadingstart
+\item
+\cvitemstart
+  \cvitem{{\bf Profa. Dra. Bruna Gisi de Almeida Martins}, brunagisi@usp.br}
+\cvitemend
+\cvheadingend
+
+\end{document}
