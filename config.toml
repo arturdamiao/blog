@@ -157,7 +157,7 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Palestras"
+    name = "Lecture notes"
     title = "Talks"
     url = "/talk/"
     weight = 4
