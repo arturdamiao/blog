@@ -162,8 +162,8 @@ enableEmoji = true
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "Ensino"
-    title = "Ensino"
+    name = "Portfólio"
+    title = ""
     url = "/collection/"
     weight = 5
   [[menu.header]]
