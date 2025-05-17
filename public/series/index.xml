@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Mestrando em Sociologia, Artur Damião</title>
-    <link>http://localhost:7913/series/</link>
+    <link>https://arturdamiao.com/series/</link>
     <description>Recent content in Series on Mestrando em Sociologia, Artur Damião</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:7913/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arturdamiao.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projeto De Mestrado</title>
-      <link>http://localhost:7913/series/projeto-de-mestrado/</link>
+      <link>https://arturdamiao.com/series/projeto-de-mestrado/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/series/projeto-de-mestrado/</guid>
+      <guid>https://arturdamiao.com/series/projeto-de-mestrado/</guid>
       <description></description>
     </item>
   </channel>

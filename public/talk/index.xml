@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks that Last on Mestrando em Sociologia, Artur Damião</title>
-    <link>http://localhost:7913/talk/</link>
-    <description>Recent content in Talks that Last on Mestrando em Sociologia, Artur Damião</description>
+    <title>Notas &amp; fichamentos on Mestrando em Sociologia, Artur Damião</title>
+    <link>https://arturdamiao.com/talk/</link>
+    <description>Recent content in Notas &amp; fichamentos on Mestrando em Sociologia, Artur Damião</description>
     <generator>Hugo</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:7913/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://arturdamiao.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A campfire</title>
-      <link>http://localhost:7913/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/talk/campfire/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A seedling</title>
-      <link>http://localhost:7913/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>http://localhost:7913/talk/second-seedling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A seedling</title>
-      <link>http://localhost:7913/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      <guid>http://localhost:7913/talk/seedling/</guid>
-      <description></description>
+      <title>FSL0608 - Sociologia da Violência: Teoria e Pesquisa</title>
+      <link>https://arturdamiao.com/talk/notes-sociologia-da-violencia/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://arturdamiao.com/talk/notes-sociologia-da-violencia/</guid>
+      <description>&lt;p&gt;Você pode fazer o Download em PDF dessas anotações no botão abaixo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/uc?export=download&amp;id=1-40t5T6Y5rYwOB_enC7zwvJApQFKj1D8&#34; &#xD;&#xA;class=&#34;download-btn&#34; &#xD;&#xA;download&gt;&#xA;&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Download&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mas, se preferir, basta descer a página para visualizar todo o conteúdo.&#xA;&lt;i class=&#34;fa-regular fa-face-smile-wink&#34;&gt;&lt;/i&gt;&lt;/p&gt;&#xA;&lt;style&gt;&#xD;&#xA;    body {&#xD;&#xA;        background-color: #f5f5f5; /* Fundo leve, como uma mesa */&#xD;&#xA;        margin: 0;&#xD;&#xA;        padding: 0;&#xD;&#xA;        font-family: Arial, sans-serif;&#xD;&#xA;    }&#xD;&#xA;    .paper-container {&#xD;&#xA;        background-color: #ffffff; /* Cor do papel */&#xD;&#xA;        width: 120%; /* Largura do &#34;papel&#34; */&#xD;&#xA;        max-width: 1200px; /* Limite máximo para telas grandes */&#xD;&#xA;        min-height: 1100px; /* Altura mínima */&#xD;&#xA;        margin: 20px auto; /* Centraliza horizontalmente */&#xD;&#xA;        padding: 20px;&#xD;&#xA;        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para destaque */&#xD;&#xA;        border-radius: 8px; /* Bordas arredondadas */&#xD;&#xA;        overflow: hidden;&#xD;&#xA;    }&#xD;&#xA;    iframe {&#xD;&#xA;        width: 100%;&#xD;&#xA;        height: 1100px;&#xD;&#xA;        border: none;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;div class=&#34;paper-container&#34;&gt;&#xD;&#xA;    &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vTHonY9DzIzBhWwnqv2QVvCCgTDJI3NokyByyxl0KS6M1sBN_rsUd-u2RgizOmkPKIVEErnB27GEDqn/pub?embedded=true&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

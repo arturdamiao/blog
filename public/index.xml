@@ -2,101 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artur Damião on Mestrando em Sociologia, Artur Damião</title>
-    <link>http://localhost:7913/</link>
+    <link>https://arturdamiao.com/</link>
     <description>Recent content in Artur Damião on Mestrando em Sociologia, Artur Damião</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:7913/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arturdamiao.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conhecendo a base de dados</title>
-      <link>http://localhost:7913/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</link>
+      <link>https://arturdamiao.com/blog/2025-01-12-conhecendo-a-base-de-dados/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</guid>
+      <guid>https://arturdamiao.com/blog/2025-01-12-conhecendo-a-base-de-dados/</guid>
       <description>&lt;h1 id=&#34;introdução&#34;&gt;Introdução&#xA;  &lt;a href=&#34;#introdu%c3%a7%c3%a3o&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Neste primeiro post, estou registrando que a base de dados &lt;code&gt;SIC 81933249327.xlsb&lt;/code&gt;, elencada adiante, apresentou muitos problemas que impossibilita uma análise direta, e aqui servirá de guia para saber o que foi feito ou não. Considero que o formato de dados binário, com a terminação &lt;code&gt;.xlsb&lt;/code&gt;, não é muito amigável para a manipulação e tratamento dos dados.&lt;/p&gt;&#xA;&lt;p&gt;Ao usarmos o R, a função &lt;code&gt;readxlsb::read_xlsb()&lt;/code&gt; apresentou limitações significativas. Com isso em mente, fizemos parte das alterações diretamente no &lt;em&gt;Excel&lt;/em&gt;, tendo visto a minha familiridade com o seu uso. Por exemplo, a primeira tentativa de unir a base de dados em uma só foi a partir do seguinte código:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Estudos policiais no Brasil</title>
-      <link>http://localhost:7913/blog/mestrado-series/01-mestrado/</link>
+      <link>https://arturdamiao.com/blog/mestrado-series/01-mestrado/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/blog/mestrado-series/01-mestrado/</guid>
+      <guid>https://arturdamiao.com/blog/mestrado-series/01-mestrado/</guid>
       <description>&lt;h1 id=&#34;introdução&#34;&gt;Introdução&#xA;  &lt;a href=&#34;#introdu%c3%a7%c3%a3o&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Para o futuro.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h1 id=&#34;discussão-metodológica&#34;&gt;Discussão metodológica&#xA;  &lt;a href=&#34;#discuss%c3%a3o-metodol%c3%b3gica&#34;&gt;&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Referenciar bibliografia depois.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Questões metodológicas</title>
-      <link>http://localhost:7913/blog/mestrado-series/02-mestrado/</link>
+      <link>https://arturdamiao.com/blog/mestrado-series/02-mestrado/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/blog/mestrado-series/02-mestrado/</guid>
+      <guid>https://arturdamiao.com/blog/mestrado-series/02-mestrado/</guid>
       <description>&lt;h2 id=&#34;introdução&#34;&gt;Introdução&#xA;  &lt;a href=&#34;#introdu%c3%a7%c3%a3o&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Trabalho futuro, a ser explorado ainda.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tendências de Estratificação Horizontal</title>
-      <link>http://localhost:7913/blog/color-themes/</link>
+      <link>https://arturdamiao.com/blog/color-themes/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/blog/color-themes/</guid>
-      <description>&lt;p&gt;Neste post, resultado de uma comunicação de pesquisa, exploraremos tendências de estratificação social na carreira de Ciências Sociais da USP. Vamos investigar, mais especificamente, os preditores para as escolhas das grandes áreas: Sociologia, Antropologia e Ciência Política.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;tratamento-dos-dados&#34;&gt;Tratamento dos dados&#xA;  &lt;a href=&#34;#tratamento-dos-dados&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Antes de darmos início a apresentação da comunicação e dos códigos, é de grande importância realizar um tratamento dos dados. Todo o script e dados estão disponíveis no meu &#xA;&lt;a href=&#34;https://github.com/arturdamiao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://arturdamiao.com/blog/color-themes/</guid>
+      <description>&lt;p&gt;Neste post, resultado de uma comunicação de pesquisa, exploraremos tendências de estratificação social na carreira de Ciências Sociais da USP. Vamos investigar, mais especificamente, os preditores para as escolhas das grandes áreas: Sociologia, Antropologia e Ciência Política.&lt;/p&gt;&#xA;&lt;p&gt;Agradeço especialmente à &#xA;&lt;a href=&#34;https://fernandafperes.com.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fernanda Peres&lt;/a&gt;, por ter disponibilizado em seu Canal de Youtube uma vídeo-aula que apresentasse um script que nos auxiliou enormemente neste trabalho, junto das referências apresentadas junto ao material.&lt;/p&gt;&#xA;&lt;p&gt;Link para o vídeo:&#xA;&#xA;&lt;a href=&#34;https://youtu.be/CgjmFLOXbEI?si=Nf9QGnXXP_faPIBl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fa-brands fa-youtube&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A campfire</title>
-      <link>http://localhost:7913/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/talk/campfire/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.&lt;/p&gt;</description>
+      <title>FSL0608 - Sociologia da Violência: Teoria e Pesquisa</title>
+      <link>https://arturdamiao.com/talk/notes-sociologia-da-violencia/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://arturdamiao.com/talk/notes-sociologia-da-violencia/</guid>
+      <description>&lt;p&gt;Você pode fazer o Download em PDF dessas anotações no botão abaixo.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/uc?export=download&amp;id=1-40t5T6Y5rYwOB_enC7zwvJApQFKj1D8&#34; &#xD;&#xA;class=&#34;download-btn&#34; &#xD;&#xA;download&gt;&#xA;&lt;i class=&#34;fa fa-file-pdf&#34;&gt;&lt;/i&gt; Download&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mas, se preferir, basta descer a página para visualizar todo o conteúdo.&#xA;&lt;i class=&#34;fa-regular fa-face-smile-wink&#34;&gt;&lt;/i&gt;&lt;/p&gt;&#xA;&lt;style&gt;&#xD;&#xA;    body {&#xD;&#xA;        background-color: #f5f5f5; /* Fundo leve, como uma mesa */&#xD;&#xA;        margin: 0;&#xD;&#xA;        padding: 0;&#xD;&#xA;        font-family: Arial, sans-serif;&#xD;&#xA;    }&#xD;&#xA;    .paper-container {&#xD;&#xA;        background-color: #ffffff; /* Cor do papel */&#xD;&#xA;        width: 120%; /* Largura do &#34;papel&#34; */&#xD;&#xA;        max-width: 1200px; /* Limite máximo para telas grandes */&#xD;&#xA;        min-height: 1100px; /* Altura mínima */&#xD;&#xA;        margin: 20px auto; /* Centraliza horizontalmente */&#xD;&#xA;        padding: 20px;&#xD;&#xA;        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para destaque */&#xD;&#xA;        border-radius: 8px; /* Bordas arredondadas */&#xD;&#xA;        overflow: hidden;&#xD;&#xA;    }&#xD;&#xA;    iframe {&#xD;&#xA;        width: 100%;&#xD;&#xA;        height: 1100px;&#xD;&#xA;        border: none;&#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;div class=&#34;paper-container&#34;&gt;&#xD;&#xA;    &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vTHonY9DzIzBhWwnqv2QVvCCgTDJI3NokyByyxl0KS6M1sBN_rsUd-u2RgizOmkPKIVEErnB27GEDqn/pub?embedded=true&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>A seedling</title>
-      <link>http://localhost:7913/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>http://localhost:7913/talk/second-seedling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A seedling</title>
-      <link>http://localhost:7913/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      <guid>http://localhost:7913/talk/seedling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tachyons for Style</title>
-      <link>http://localhost:7913/project/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/project/giraffes/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;tachyons-logo-script.png&#34; alt=&#34;Tachyons Logo Script&#34;&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;tachyonshttptachyonsio-is-a-design-system-that-allows-you-to-design-gorgeous-interfaces-in-the-browser-with-little-effort&#34;&gt;&#xA;&lt;a href=&#34;http://tachyons.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tachyons&lt;/a&gt; is a design system that allows you to design gorgeous interfaces in the browser with little effort.&#xA;  &lt;a href=&#34;#tachyonshttptachyonsio-is-a-design-system-that-allows-you-to-design-gorgeous-interfaces-in-the-browser-with-little-effort&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;because-speed&#34;&gt;Because Speed&#xA;  &lt;a href=&#34;#because-speed&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Building this static site generator theme was the first time I used an Atomic&#xA;(or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides&#xA;very small (which means fast) CSS modules that you can use in your HTML. So,&#xA;rather than writing every line of CSS, you apply the style you need as you write&#xA;your HTML with easy to understand shorthand class names. This makes for a very&#xA;powerful way to style, in the browser, or while building a static site like this&#xA;one – since you can see every change with every save. &lt;strong&gt;It&amp;rsquo;s a joy to use.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Palmer Penguins</title>
-      <link>http://localhost:7913/project/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/project/penguins/</guid>
-      <description>&lt;h3 id=&#34;grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites&#34;&gt;“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”&#xA;  &lt;a href=&#34;#grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;— &#xA;&lt;a href=&#34;http://chris.house/blog/a-complete-guide-css-grid-layout/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris House, A Complete Guide to CSS Grid Layout&lt;/a&gt;&lt;/em&gt; &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid &lt;code&gt;TABLE&lt;/code&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bakeoff</title>
-      <link>http://localhost:7913/project/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/project/bakeoff/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;formspree-logo.png&#34; alt=&#34;Formspree Logo&#34;&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;formspreehttpsformspreeio-makes-it-easy-to-receive-submissions-from-html-forms-on-your-static-website&#34;&gt;&#xA;&lt;a href=&#34;https://formspree.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Formspree&lt;/a&gt; makes it easy to receive submissions from HTML forms on your static website.&#xA;  &lt;a href=&#34;#formspreehttpsformspreeio-makes-it-easy-to-receive-submissions-from-html-forms-on-your-static-website&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;functional-form&#34;&gt;Functional Form&#xA;  &lt;a href=&#34;#functional-form&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;This theme has a &lt;strong&gt;form-to-email&lt;/strong&gt; feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form&#xA;(&lt;code&gt;/content/forms/contact.md&lt;/code&gt;). Of course, the example shown below (&lt;code&gt;your@email.here&lt;/code&gt;) must not be used. Please use your actual email address.&lt;/p&gt;</description>
+      <title>Programa de Educação Tutorial</title>
+      <link>https://arturdamiao.com/project/pet/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://arturdamiao.com/project/pet/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://arturdamiao.github.io/pet-cs-gender/script/index.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analisando sexualidade e gênero do alunado: hands-on na base de dados do PET&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Contato</title>
-      <link>http://localhost:7913/contato/</link>
+      <link>https://arturdamiao.com/contato/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      <guid>http://localhost:7913/contato/</guid>
+      <guid>https://arturdamiao.com/contato/</guid>
       <description>&lt;p&gt;** Contact page don&amp;rsquo;t contain a body, just the front matter above.&#xA;See form.html in the layouts folder.&lt;/p&gt;&#xA;&lt;p&gt;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.&#xA;**&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Financiamento</title>
-      <link>http://localhost:7913/contributors/</link>
+      <title></title>
+      <link>https://arturdamiao.com/publicacoes/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/contributors/</guid>
+      <guid>https://arturdamiao.com/publicacoes/header/</guid>
+      <description>&lt;h2 id=&#34;artigos&#34;&gt;Artigos&#xA;  &lt;a href=&#34;#artigos&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;TAKATA, A. T. ; PALOMO, M. D. ; &lt;strong&gt;DAMIÃO, A&lt;/strong&gt;.. &#xA;&lt;a href=&#34;https://periodicos.ufmg.br/index.php/revistatrespontos/article/view/59063&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Políticas de acesso na USP: os efeitos do Sisu e da Fuvest no ingresso de estudantes pretos, pardos e indígenas no curso de Ciências Sociais. REVISTA TRÊS [&amp;hellip;] PONTOS (UFMG), v. 21, p. 1-12, 2025.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;preprints&#34;&gt;Preprints&#xA;  &lt;a href=&#34;#preprints&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Damião, Artur&lt;/strong&gt;. 2024. &amp;ldquo;A Apreensão De Adolescentes Autores De Atos Infracionais Enquanto Análise Da Atuação Policial: Uma Investigação No Município De São Paulo (MSP).&amp;rdquo; OSF Preprints. July 4. &#xA;&lt;a href=&#34;doi:10.31219/osf.io/5mpe9&#34;&gt;doi:10.31219/osf.io/5mpe9&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;mídia&#34;&gt;Mídia&#xA;  &lt;a href=&#34;#m%c3%addia&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;DAMIÃO, A.&lt;/strong&gt;; KELVIN, R. ; FLORENTINO, A. B. ; STEFANI, C. B. ; HERNANDES, H. A. ; LOUREIRO, L. L. . As disputas pelo 8 de janeiro. 2023. Disponível em: &#xA;&lt;a href=&#34;https://open.spotify.com/episode/0UdwCMYiYUBswLm6o3WMt3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://open.spotify.com/episode/0UdwCMYiYUBswLm6o3WMt3&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pesquisador do NEV integra Podcast que estuda os acontecimentos do 8 de Janeiro, em Brasília. Disponível em: &#xA;&lt;a href=&#34;https://nev.prp.usp.br/noticias/30-10-2023-pesquisador-do-nev-integra-podcast-que-estuda-os-acontecimentos-do-8-de-janeiro-em-brasilia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nev.prp.usp.br/noticias/30-10-2023-pesquisador-do-nev-integra-podcast-que-estuda-os-acontecimentos-do-8-de-janeiro-em-brasilia/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Financiamento</title>
+      <link>https://arturdamiao.com/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturdamiao.com/contributors/</guid>
       <description>&lt;h2 id=&#34;mestrado&#34;&gt;Mestrado&#xA;  &lt;a href=&#34;#mestrado&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Título&lt;/strong&gt;: Padrões de atuação das polícias e a apreensão de adolescentes no Município de São Paulo: explorações teórico-metodológicas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agência&lt;/strong&gt;:&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Universidade&lt;/strong&gt;: &#xA;&lt;a href=&#34;https://www5.usp.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unversidade de São Paulo (USP)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bolsa&lt;/strong&gt;:&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Valor&lt;/strong&gt;: R$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;iniciação-científica&#34;&gt;Iniciação Científica&#xA;  &lt;a href=&#34;#inicia%c3%a7%c3%a3o-cient%c3%adfica&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Título&lt;/strong&gt;: Crime e caminhabilidade em São Paulo (SP): impactos na infância e adolescência&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agência&lt;/strong&gt;:  &#xA;&lt;a href=&#34;https://fapesp.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Universidade&lt;/strong&gt;: &#xA;&lt;a href=&#34;https://www5.usp.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unversidade de São Paulo (USP)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bolsa&lt;/strong&gt;: #2022/05379-7&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Valor&lt;/strong&gt;: R$ 10.561,32&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Licença</title>
-      <link>http://localhost:7913/license/</link>
+      <link>https://arturdamiao.com/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7913/license/</guid>
+      <guid>https://arturdamiao.com/license/</guid>
       <description>&lt;p&gt;Os conteúdos deste &#xA;&lt;a href=&#34;https://arturdamiao.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site&lt;/a&gt; são distribuídos sob a licença &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Basta atribuir o crédito a mim.&lt;/p&gt;&#xA;&lt;center&gt;&#xD;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xD;&#xA;&lt;/center&gt;</description>
     </item>
   </channel>

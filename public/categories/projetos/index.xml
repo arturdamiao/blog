@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projetos on Mestrando em Sociologia, Artur Damião</title>
-    <link>http://localhost:4321/categories/projetos/</link>
+    <link>https://arturdamiao.com/categories/projetos/</link>
     <description>Recent content in Projetos on Mestrando em Sociologia, Artur Damião</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/categories/projetos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arturdamiao.com/categories/projetos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programa de Educação Tutorial</title>
-      <link>http://localhost:4321/project/pet/</link>
+      <link>https://arturdamiao.com/project/pet/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pet/</guid>
-      <description></description>
+      <guid>https://arturdamiao.com/project/pet/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://arturdamiao.github.io/pet-cs-gender/script/index.html#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analisando sexualidade e gênero do alunado: hands-on na base de dados do PET&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

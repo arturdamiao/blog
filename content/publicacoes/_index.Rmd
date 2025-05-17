@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /publicacoes/
-description: Lista de publicações.
+description: Publicações, mídias e outros produtos.
 layout: list-grid
 show_author_byline: true
 show_button_links: false
@@ -20,6 +20,20 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: Lista de publicações
+  title: Lista de artigos, publicações, mídias e outros 
 title: Publicações
 ---
+
+## Artigos
+
+1.  TAKATA, A. T. ; PALOMO, M. D. ; **DAMIÃO, A***.*. [Políticas de acesso na USP: os efeitos do Sisu e da Fuvest no ingresso de estudantes pretos, pardos e indígenas no curso de Ciências Sociais. REVISTA TRÊS [...] PONTOS (UFMG), v. 21, p. 1-12, 2025.](https://periodicos.ufmg.br/index.php/revistatrespontos/article/view/59063)
+
+## Preprints
+
+1.  **Damião, Artur**. 2024. “A Apreensão De Adolescentes Autores De Atos Infracionais Enquanto Análise Da Atuação Policial: Uma Investigação No Município De São Paulo (MSP).” OSF Preprints. July 4. <doi:10.31219/osf.io/5mpe9>.
+
+## Mídia
+
+1.  **DAMIÃO, A.**; KELVIN, R. ; FLORENTINO, A. B. ; STEFANI, C. B. ; HERNANDES, H. A. ; LOUREIRO, L. L. . As disputas pelo 8 de janeiro. 2023. Disponível em: <https://open.spotify.com/episode/0UdwCMYiYUBswLm6o3WMt3>
+
+2.  Pesquisador do NEV integra Podcast que estuda os acontecimentos do 8 de Janeiro, em Brasília. Disponível em: <https://nev.prp.usp.br/noticias/30-10-2023-pesquisador-do-nev-integra-podcast-que-estuda-os-acontecimentos-do-8-de-janeiro-em-brasilia/>

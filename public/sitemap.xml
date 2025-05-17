@@ -2,103 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:7913/blog/2025-01-12-conhecendo-a-base-de-dados/01-mestrado/</loc>
+    <loc>https://arturdamiao.com/blog/2025-01-12-conhecendo-a-base-de-dados/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/blog/mestrado-series/01-mestrado/</loc>
+    <loc>https://arturdamiao.com/blog/mestrado-series/01-mestrado/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/blog/mestrado-series/02-mestrado/</loc>
+    <loc>https://arturdamiao.com/blog/mestrado-series/02-mestrado/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/blog/2025-01-12-conhecendo-a-base-de-dados/</loc>
+    <loc>https://arturdamiao.com/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/</loc>
+    <loc>https://arturdamiao.com/blog/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/blog/</loc>
+    <loc>https://arturdamiao.com/categories/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/categories/</loc>
+    <loc>https://arturdamiao.com/tags/mestrado/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/tags/mestrado/</loc>
+    <loc>https://arturdamiao.com/blog/mestrado-series/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/blog/mestrado-series/</loc>
+    <loc>https://arturdamiao.com/series/projeto-de-mestrado/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/series/projeto-de-mestrado/</loc>
+    <loc>https://arturdamiao.com/categories/r/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/categories/r/</loc>
+    <loc>https://arturdamiao.com/series/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/series/</loc>
+    <loc>https://arturdamiao.com/tags/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/tags/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:7913/blog/color-themes/</loc>
+    <loc>https://arturdamiao.com/blog/color-themes/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/talk/campfire/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://arturdamiao.com/categories/anota%C3%A7%C3%B5es/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://arturdamiao.com/talk/notes-sociologia-da-violencia/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/categories/workshop/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://arturdamiao.com/talk/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/talk/second-seedling/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
+    <loc>https://arturdamiao.com/tags/pesquisa/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/categories/meetup/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
+    <loc>https://arturdamiao.com/project/pet/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
+    <loc>https://arturdamiao.com/categories/projetos/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>https://arturdamiao.com/project/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/tags/hugo-site/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:7913/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:7913/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:7913/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:7913/project/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:7913/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:7913/contato/</loc>
+    <loc>https://arturdamiao.com/contato/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/form/</loc>
+    <loc>https://arturdamiao.com/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:7913/about/</loc>
+    <loc>https://arturdamiao.com/publicacoes/header/</loc>
   </url><url>
-    <loc>http://localhost:7913/collection/</loc>
+    <loc>https://arturdamiao.com/about/</loc>
   </url><url>
-    <loc>http://localhost:7913/cv/</loc>
+    <loc>https://arturdamiao.com/cv/</loc>
   </url><url>
-    <loc>http://localhost:7913/contributors/</loc>
+    <loc>https://arturdamiao.com/contributors/</loc>
   </url><url>
-    <loc>http://localhost:7913/license/</loc>
+    <loc>https://arturdamiao.com/license/</loc>
   </url><url>
-    <loc>http://localhost:7913/publicacoes/</loc>
+    <loc>https://arturdamiao.com/collection/</loc>
+  </url><url>
+    <loc>https://arturdamiao.com/publicacoes/</loc>
   </url>
 </urlset>
