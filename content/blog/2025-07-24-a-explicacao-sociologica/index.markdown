@@ -50,9 +50,7 @@ Além do caráter exterior de um fato social, este também apresenta elementos i
 
 Segundo nosso autor, a estatística pode nos auxiliar a depurar os fatos individuais. Como exemplo, a taxa de suicídio representada pela fórmula abaixo podem ser analisadas em conjunto com outros estratos para investigar a influência de determinado **estado de alma coletiva** (Durkheim 2012, 37) na sociedade:
 
-``` math
- T_{\text{suicídio}} = \frac{S_{\text{total}}}{P_{\text{população}}}
-```
+`\begin{equation} T_{\text{suicídio}} = \frac{S_{\text{total}}}{P_{\text{população}}} \end{equation}`
 
 No caso específico do suicídio, é possível observar uma constante em alguns estratos sociais. E, de modo geral, não se comete suicídio em todas idades, nem em cada idade com a mesma intensidade, tampouco da mesma forma. A conclusão desta linha de raciocínio é que o fato social existe independentemente das formas individuais. O fato social pode ser definido como sendo
 
