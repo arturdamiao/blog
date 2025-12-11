@@ -2,8 +2,8 @@
 title: A explicação Sociológica
 subtitle: "uma análise à luz de Florestan Fernandes, Émile Durkheim e Pierre Bourdieu"
 author: 'Artur Damião'
-date: '2025-07-24'
-excerpt: "Trabalho final apresentado à disciplina de Teoria Sociológica Clássica (FLS5614), ministrada pelo professor Fernando Pinheiro."
+date: '2025-12-11'
+excerpt: "Trabalho final apresentado à disciplina FLS5621 - Metateoria, Teoria e Explicação em Sociologia: Aspectos Formais e Substantivos, ministrada pelo professor Alexandre Massella, no segundo semestre de 2025. "
 
 bibliography: referencias.bib
 
