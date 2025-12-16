@@ -129,7 +129,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fa"
-      url       = "mailto:artur.cardoso@usp.br"    
+      url       = "mailto:arturcardoso@usp.br"    
   [[params.social]]
       icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"

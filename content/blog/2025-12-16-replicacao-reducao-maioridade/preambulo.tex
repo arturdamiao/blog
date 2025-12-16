@@ -1,0 +1,20 @@
+% Pacotes úteis
+\usepackage{setspace}
+%\usepackage{lipsum} % Apenas para texto exemplo, pode ser removido
+%\usepackage{mathptmx}
+%\usepackage{fancyhdr}
+%\usepackage{times}
+\usepackage{ragged2e}
+
+% Comando customizado para citação direta longa ao estilo ABNT com justificação
+\newcommand{\citaABNT}[1]{%
+  \begin{flushleft}
+  \setlength{\leftskip}{4cm}
+  \fontsize{10}{12}\selectfont
+  \singlespacing
+  #1
+  \end{flushleft}
+}
+
+\setlength{\parindent}{1.2cm}
+\setlength{\parskip}{1em} % Adiciona um espaço entre parágrafos para melhor leitura
