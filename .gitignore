@@ -8,3 +8,38 @@
 .quarto
 
 /.quarto/
+
+
+# --- Resíduos de Sincronização (OneDrive) ---
+# Ignora as cópias de conflito que o OneDrive cria com o nome do PC
+*-ArturDamiaoPC*
+
+# --- Saídas do Quarto e do Site ---
+# Ignora a pasta final do site (deve ser gerada no servidor ou localmente sem ir para o Git)
+public/
+_site/
+.quarto/
+
+# Ignora pastas de suporte geradas ao renderizar posts específicos
+*_files/
+*_cache/
+
+# --- Arquivos do R ---
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# --- Dados e Arquivos Pesados ---
+# É recomendável não subir bases de dados para o Git
+*.rds
+*.Rds
+*.csv
+*.xlsx
+*.sqlite
+
+# --- Sistema ---
+Thumbs.db
+Desktop.ini
+.DS_Store
