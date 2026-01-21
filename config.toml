@@ -158,13 +158,13 @@ enableEmoji = true
     weight = 3
   [[menu.header]]
     name = "Lecture notes"
-    title = "Talks"
+    title = "Lecture notes"
     url = "/talk/"
     weight = 4
   [[menu.header]]
     name = "Materiais"
-    title = ""
-    url = "/collection/"
+    title = "Materiais"
+    url = "/materiais/"
     weight = 5
   [[menu.header]]
     name = "Publicações"
