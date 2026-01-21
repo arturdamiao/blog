@@ -162,7 +162,7 @@ enableEmoji = true
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "Portfólio"
+    name = "Materiais"
     title = ""
     url = "/collection/"
     weight = 5
