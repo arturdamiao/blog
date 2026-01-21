@@ -1,0 +1,22 @@
+---
+title: Análise de Dados Criminais utilizando R
+author: 'Artur Damião'
+date: '2025-12-16'
+excerpt: "Curso de Verão ofertado pela Faculdade de Filosofia, Letras e Ciências Humanas. " 
+
+
+location: "São Paulo, Brasil"
+featured: true
+slug: []
+categories: []
+tags: ["Curso"]
+
+---
+
+<meta http-equiv="refresh" content="0; url=https://arturdamiao.github.io/2026-02-summer-intro-crime-analysis-R/">
+
+<script type="text/javascript">
+    window.location.href = "https://arturdamiao.github.io/2026-02-summer-intro-crime-analysis-R/"
+</script>
+
+Se você não for redirecionado automaticamente, [clique aqui para acessar o artigo original](https://github.com/arturdamiao/2026-02-summer-intro-crime-analysis-R).

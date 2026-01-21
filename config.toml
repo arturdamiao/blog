@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/static/perfil-linkedin.jpg"
+  sharing_image = "/static/rosto.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "apreshill"
   
@@ -129,7 +129,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fa"
-      url       = "mailto:artur.cardoso@usp.br"    
+      url       = "mailto:arturcardoso@usp.br"    
   [[params.social]]
       icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"
