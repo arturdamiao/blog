@@ -8,7 +8,7 @@ description: Sou Cientista Social de formação e mestrando em Sociologia, ambos
   violência, processamento de linguagem natural (NLP), análise de dados sociais e geoespaciais.
 image_left: false
 images:
-- img/perfil-linkedin.jpg
+- static/rosto.jpg
 
 show_action_link: true
 show_social_links: true
