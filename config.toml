@@ -157,30 +157,25 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Lecture notes"
-    title = "Lecture notes"
-    url = "/talk/"
-    weight = 4
-  [[menu.header]]
     name = "Materiais"
     title = "Materiais"
     url = "/materiais/"
-    weight = 5
+    weight = 4
   [[menu.header]]
     name = "Publicações"
     title = "Publicações"
     url = "/publicacoes/"
-    weight = 6
+    weight = 5
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/cv.html"
-    weight = 7
+    weight = 6
   [[menu.header]]
     name = "Resumé"
     title = "Resumé"
     url = "/resume/resume.pdf"
-    weight = 8    
+    weight = 7   
 
   # Configure footer  
   [[menu.footer]]
